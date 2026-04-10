@@ -3,7 +3,7 @@
 <h1 align="center">Hey👋, I'm Saloni Sharma</h1>
 <h3 align="center">A passionate Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/rutikakengal/rutikakengal/blob/main/README.md">
+<img align="right" alt="coding" width="400" src="https://lottiefiles.com/free-animation/girl-on-computer-with-idea-vKx1wtZe5l">
 
 
 <p align="left"> <a href="https://twitter.com/saloniish22" target="blank"><img src="https://img.shields.io/twitter/follow/saloniish22?logo=twitter&style=for-the-badge" alt="saloniish22" /></a> </p>

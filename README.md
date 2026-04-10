@@ -1,7 +1,7 @@
 ![logo](https://github.com/salonii2/Salonii2/blob/main/Screenshot%202025-08-11%20234340.png?raw=true)
 
 <h1 align="center">Hey👋, I'm Saloni Sharma</h1>
-<h3 align="center">A passionate Engineer from India</h3>
+<h3 align="center">A passionate Engineer </h3>
 
 
 
